@@ -1,3 +1,4 @@
+//Contador de uno en uno
 import { useState } from "react"
 
 export const useCounter= (initialState=100)=>{
